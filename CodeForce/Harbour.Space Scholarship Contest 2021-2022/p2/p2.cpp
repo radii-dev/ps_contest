@@ -25,8 +25,6 @@ int main(int argc, char** argv)
 
 		Answer = solve(n);
 
-		// Print the answer to standard output(screen).
-		//cout << "Case #" << test_case + 1 << endl;
 		cout << Answer << endl;
 	}
 
