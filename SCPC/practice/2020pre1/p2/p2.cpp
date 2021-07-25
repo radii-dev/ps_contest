@@ -7,7 +7,7 @@ using namespace std;
 int Answer;
 int n, k;
 int X[3001], Y[3001];
-int psX[3001], psY[3001];		//prefix sum of X and Y
+int psX[3001], psY[3001];		//prefix sum of X and Y 
 int dp[3001][3001];
 
 void readInput() {
